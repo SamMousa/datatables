@@ -1,6 +1,7 @@
 {
     "name": "components/datatables",
     "type": "component",
+    "license" : "MIT",
     "require": {
         "robloach/component-installer": "*"
     },
