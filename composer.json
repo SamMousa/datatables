@@ -3,7 +3,8 @@
     "type": "component",
     "license" : "MIT",
     "require": {
-        "robloach/component-installer": "*"
+        "robloach/component-installer": "*",
+		"components/jquery" : "*"
     },
     "extra": {
         "component": {
