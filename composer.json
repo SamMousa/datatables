@@ -15,7 +15,7 @@
 				"media/css/jquery.dataTables.css"
 			],
             "files": [
-				"media/js/jquery.dataTables.min.js".
+				"media/js/jquery.dataTables.min.js",
 				"media/css/jquery.dataTables.min.css",
 				"media/css/jquery.dataTables_themeroller.css",
                 "media/images/*"
